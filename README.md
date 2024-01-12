@@ -17,13 +17,16 @@ Durant ces lives nous allons faire principalement du CSS avec un peu de HTML.
 
 ## Planning
 
-| Numéro | Date       | Heure     | Titre                                                 | Replay                |
-| ------ | ---------- | --------- | ----------------------------------------------------- | --------------------- |
-| 01     | 12/01/2024 | 10h - 11h | HTML CSS - 1/6 - Bien coder le responsive de mon site | Pas encore disponible |
-| 02     | 19/01/2024 | 10h - 11h | HTML CSS - 2/6 - Bien coder le responsive de mon site | Pas encore disponible |
-| 03     | 26/01/2024 | 10h - 11h | HTML CSS - 3/6 - Bien coder le responsive de mon site | Pas encore disponible |
-| 04     | 02/02/2024 | 10h - 11h | HTML CSS - 4/6 - Bien coder le responsive de mon site | Pas encore disponible |
-| 05     | 05/02/2024 | 10h - 11h | HTML CSS - 5/6 - Bien coder le responsive de mon site | Pas encore disponible |
-| 06     | 10/02/2024 | 10h - 11h | HTML CSS - 6/6 - Bien coder le responsive de mon site | Pas encore disponible |
+| Numéro | Date       | Heure     | Titre                                          | Replay                |
+| ------ | ---------- | --------- | ---------------------------------------------- | --------------------- |
+| 01     | 12/01/2024 | 10h - 11h | Les medias-queries.                            | Pas encore disponible |
+| 02     | 19/01/2024 | 10h - 11h | Des containers fluides sans surcouche de code  | Pas encore disponible |
+| 03     | 26/01/2024 | 10h - 11h | Des images adaptées, qui s'adaptent.           | Pas encore disponible |
+| 04     | 02/02/2024 | 10h - 11h | Le mobile first                                | Pas encore disponible |
+| 05     | 05/02/2024 | 10h - 11h | Les mauvais exemples du responsive             | Pas encore disponible |
+| 06     | 10/02/2024 | 10h - 11h | Trouver et coder le reponsive le plus optimisé | Pas encore disponible |
 
 ## Ressources
+
+- [Meta viewport](https://developer.mozilla.org/fr/docs/Web/HTML/Viewport_meta_tag)
+- [Media queries](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_media_queries/Using_media_queries)

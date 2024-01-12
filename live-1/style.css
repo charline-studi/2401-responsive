@@ -1,0 +1,116 @@
+body {
+    background-color: pink;
+}
+
+.recipe {
+    border: solid 5px black;
+    margin-bottom: 30px
+}
+
+/*
+1 - Type de media query : 
+- all
+- screen
+- print
+- speech
+*/
+
+@media print {
+
+    .no-print {
+        display: none;
+    }
+
+}
+
+@media screen {
+
+    .footer {
+        border: solid 10px green;
+    }
+
+}
+
+/* @media all {
+
+    a {
+        font-weight: bold;
+        margin-bottom: 30px;
+        display: block;
+    }
+
+} */
+
+a {
+    font-weight: bold;
+    margin-bottom: 30px;
+    display: block;
+}
+
+/*
+2 - Caractéristiques des médias
+- width 
+- height 
+- max-width
+- min-width
+- orientation 
+*/
+
+@media (min-width: 1200px) {
+    body {
+        background-color: yellow;
+    }
+}
+
+/* 3 - Enchaînements des medias 
+- montre : 0 à 200px
+- telephone : 200px à 800px
+- tablette : 800px à 1200px
+- ordi : 1200px à 2400px
+- grand écrans : 2400px à infini
+*/
+
+@media (max-width: 200px) {
+    /* Pas de bordure sur montre */ 
+    .recipe {
+        border-width: 0;
+    }
+}
+
+@media (max-width: 800px) {
+    /* Bordure avec des points sur téléphone */ 
+    .recipe {
+        border-style: dotted;
+    }
+}
+
+@media (max-width: 1000px) {
+    /* Bordure rouge sur tablette */
+    .recipe {
+        border-color: red
+    }
+}
+
+/* 4 - Un media query "complexe" ou dit "combinés" 
+- avec plusieurs caractéristiques
+- pour cibler une device ou un "état" spécifique
+*/
+
+/* Tablette uniquement en mode paysage */
+@media screen and (min-width: 800px) and (max-width: 1200px) and (orientation: landscape) {
+    .recipe {
+        color: red
+    }
+}
+
+
+.recipe:hover {
+    text-decoration: underline;
+}
+
+/* Pour toutes les appareils qui n'ont pas de hover, on met le soulignement par défaut */
+@media not (hover: hover) {
+    .recipe {
+        text-decoration: underline;
+    }
+}
