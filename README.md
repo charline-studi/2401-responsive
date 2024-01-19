@@ -20,7 +20,7 @@ Durant ces lives nous allons faire principalement du CSS avec un peu de HTML.
 | Numéro | Date       | Heure     | Titre                                          | Replay                                      |
 | ------ | ---------- | --------- | ---------------------------------------------- | ------------------------------------------- |
 | 01     | 12/01/2024 | 10h - 11h | Les medias-queries.                            | https://app.studi.fr/v3/events/63009/replay |
-| 02     | 19/01/2024 | 10h - 11h | Des containers fluides sans surcouche de code  | Pas encore disponible                       |
+| 02     | 19/01/2024 | 10h - 11h | Des containers fluides sans surcouche de code  | https://app.studi.fr/v3/events/63223/replay |
 | 03     | 26/01/2024 | 10h - 11h | Des images adaptées, qui s'adaptent.           | Pas encore disponible                       |
 | 04     | 02/02/2024 | 10h - 11h | Le mobile first                                | Pas encore disponible                       |
 | 05     | 05/02/2024 | 10h - 11h | Les mauvais exemples du responsive             | Pas encore disponible                       |

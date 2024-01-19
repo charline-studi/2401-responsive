@@ -1,0 +1,47 @@
+/*
+Les unités en CSS : 
+- pixel (px) : valeur fixe
+- ✅ rem : basée sur la taille de typo du document 
+- em : basée sur la taille de typo du bloc parent
+- ✅ vw / vh : viewport width and height  basées sur la taille de la fenêtre
+- ✅ % : pourcentage basé sur le parent
+*/
+
+html {
+    font-size: 16px;
+}
+
+.px {
+    font-size: 1px;
+}
+
+.rem {
+    background-color: red;
+    font-size: 30px;
+}
+
+.rem p {
+    font-size: 1rem;
+}
+
+.rem span {
+    font-size: 0.5rem;
+}
+
+.em {
+    background-color: blue;
+    font-size: 30px;
+}
+
+.em p {
+    font-size: 1em;
+}
+
+.em span {
+    font-size: 0.5em;
+}
+
+.vw p {
+    background-color: pink;
+    font-size: 10vw;
+}
