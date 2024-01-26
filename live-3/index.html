@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Live 3 : Les images</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- VECTOR : Façon #1 : utiliser des images SVG dans le img -->
+    <img src="images/mail-line.svg" alt="Mail icone">
+
+    <!-- VECTOR Façon #2 : copier / coller le code svg dans mon fichier -->
+    <svg class="icon-mail" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M3 3H21C21.5523 3 22 3.44772 22 4V20C22 20.5523 21.5523 21 21 21H3C2.44772 21 2 20.5523 2 20V4C2 3.44772 2.44772 3 3 3ZM20 7.23792L12.0718 14.338L4 7.21594V19H20V7.23792ZM4.51146 5L12.0619 11.662L19.501 5H4.51146Z"></path>
+    </svg>
+
+    <!-- BITMAP : Responsive directement dans le HTML -->
+    <img class="small" src="small.jpg" alt="">
+    <img class="big" src="big.jpg" alt="">
+    <picture>
+        <source srcset="images/a.jpg" media="(max-width: 1000px)" alt="" />
+        <source srcset="images/b.jpg" media="(min-width: 2000px)" alt="" />
+        <img src="images/c.jpg" alt="">
+    </picture>
+</body>
+</html>
