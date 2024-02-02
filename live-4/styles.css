@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Typo 16px pour éviter le zoom*/
+
+form input {
+    font-size: 16px;
+}
+
+/* HEADER */ 
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+header ul {
+    display: flex;
+    flex-direction: column;
+}
+
+header div {
+    display: block;
+}
+
+@media screen and (min-width: 800px) {
+    header ul {
+        flex-direction: row;
+    }
+    
+    header div {
+        display: none;
+    }
+}
+
+header .logo {
+    width: 2rem;
+}
+
+header .logo:hover path {
+    fill: red
+}
+
+main img {
+    margin-top: 200vh;
+    width: 100vw;
+}
