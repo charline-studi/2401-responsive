@@ -23,7 +23,7 @@ Durant ces lives nous allons faire principalement du CSS avec un peu de HTML.
 | 02     | 19/01/2024 | 10h - 11h | Des containers fluides sans surcouche de code  | https://app.studi.fr/v3/events/63223/replay |
 | 03     | 26/01/2024 | 10h - 11h | Des images adaptées, qui s'adaptent.           | https://app.studi.fr/v3/events/63737/replay |
 | 04     | 02/02/2024 | 10h - 11h | Le mobile first                                | https://app.studi.fr/v3/events/64168/replay |
-| 05     | 12/02/2024 | 10h - 11h | Les mauvais exemples du responsive             | Pas encore disponible                       |
+| 05     | 12/02/2024 | 10h - 11h | Les mauvais exemples du responsive             | https://app.studi.fr/v3/events/64424/replay |
 | 06     | 16/02/2024 | 10h - 11h | Trouver et coder le reponsive le plus optimisé | Pas encore disponible                       |
 
 ## Ressources
