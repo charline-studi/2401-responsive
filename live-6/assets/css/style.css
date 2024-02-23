@@ -88,3 +88,39 @@ button {
 .section-partners__logo {
     min-width: 20rem;
 }
+
+/* SECTION TWO */
+
+.section-two {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.section-two__bloc {
+    flex-grow: 1;
+    width: 300px;
+}
+
+.section-two__bloc img {
+    width: 100%;
+}
+
+/* SECTION TEAM*/
+
+.section-team {
+    text-align: center;
+}
+
+.section-team__cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    justify-content: center;
+}
+
+.section-team__card {
+    width: 100%;
+    max-width: 20rem;
+}

@@ -17,14 +17,15 @@ Durant ces lives nous allons faire principalement du CSS avec un peu de HTML.
 
 ## Planning
 
-| Numéro | Date       | Heure     | Titre                                          | Replay                                      |
-| ------ | ---------- | --------- | ---------------------------------------------- | ------------------------------------------- |
-| 01     | 12/01/2024 | 10h - 11h | Les medias-queries.                            | https://app.studi.fr/v3/events/63009/replay |
-| 02     | 19/01/2024 | 10h - 11h | Des containers fluides sans surcouche de code  | https://app.studi.fr/v3/events/63223/replay |
-| 03     | 26/01/2024 | 10h - 11h | Des images adaptées, qui s'adaptent.           | https://app.studi.fr/v3/events/63737/replay |
-| 04     | 02/02/2024 | 10h - 11h | Le mobile first                                | https://app.studi.fr/v3/events/64168/replay |
-| 05     | 12/02/2024 | 10h - 11h | Les mauvais exemples du responsive             | https://app.studi.fr/v3/events/64424/replay |
-| 06     | 16/02/2024 | 10h - 11h | Trouver et coder le reponsive le plus optimisé | https://app.studi.fr/v3/events/64742/replay |
+| Numéro | Date       | Heure     | Titre                                                             | Replay                                      |
+| ------ | ---------- | --------- | ----------------------------------------------------------------- | ------------------------------------------- |
+| 01     | 12/01/2024 | 10h - 11h | Les medias-queries.                                               | https://app.studi.fr/v3/events/63009/replay |
+| 02     | 19/01/2024 | 10h - 11h | Des containers fluides sans surcouche de code                     | https://app.studi.fr/v3/events/63223/replay |
+| 03     | 26/01/2024 | 10h - 11h | Des images adaptées, qui s'adaptent.                              | https://app.studi.fr/v3/events/63737/replay |
+| 04     | 02/02/2024 | 10h - 11h | Le mobile first                                                   | https://app.studi.fr/v3/events/64168/replay |
+| 05     | 12/02/2024 | 10h - 11h | Les mauvais exemples du responsive                                | https://app.studi.fr/v3/events/64424/replay |
+| 06     | 16/02/2024 | 10h - 11h | Trouver et coder le reponsive le plus optimisé                    | https://app.studi.fr/v3/events/64742/replay |
+| 07     | 23/02/2024 | 10h - 11h | (live bonus suite) Trouver et coder le reponsive le plus optimisé | https://app.studi.fr/v3/events/65547/replay |
 
 ## Ressources
 
@@ -33,3 +34,4 @@ Durant ces lives nous allons faire principalement du CSS avec un peu de HTML.
 - [Convertir en WebP](https://image.online-convert.com/fr/convertir-en-webp)
 - [Convertir en jpegP](https://www.imgonline.com.ua/eng/make-jpeg-progressive-without-compression-result.php)
 - [Article sur progressive](https://www.thewebmaster.com/progressive-jpegs/)
+- [La balise picture](https://developer.mozilla.org/fr/docs/Web/HTML/Element/picture)
